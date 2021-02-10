@@ -1,0 +1,12 @@
+1.	git checkout -b NAME_OF_BRANCH or git branch NAME_OF_BRANCH creates a new branch
+
+2.	fast forwards only happen if it is a simple merge, and there are have not been any 
+	new commits on the original branch while you're working on the new branch
+
+3.	git checkout NAME_OF_BRANCH switches to that branch
+
+4.	git branch -d NAME_OF_BRANCH deletes the branch
+
+5.	Merge conflicts happen when there are two same-named files in both the merging branch and the 
+	branch being merged into, with changes in both files. Git doesn't know which change to 
+	track.
