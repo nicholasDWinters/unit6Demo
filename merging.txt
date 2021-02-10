@@ -10,3 +10,5 @@
 5.	Merge conflicts happen when there are two same-named files in both the merging branch and the 
 	branch being merged into, with changes in both files. Git doesn't know which change to 
 	keep track of.
+
+merging conflict practice line
