@@ -11,4 +11,4 @@
 	branch being merged into, with changes in both files. Git doesn't know which change to 
 	keep track of.
 
-master merging conflict line
+master merging conflict 
